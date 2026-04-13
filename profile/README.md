@@ -1,4 +1,3 @@
-## Hi there 👋
 # RSTEK - Soluções Inteligentes de Engenharia e Mercado Imobiliário
 
 Bem-vindo ao perfil GitHub da **RSTEK**! Somos uma empresa especializada em transformar dados em decisões estratégicas através de tecnologia inovadora para os setores de engenharia e mercado imobiliário.
